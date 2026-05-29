@@ -20,7 +20,9 @@ Evidence File: threat_intelligence.png
 
 ## Automated Patch Management
 
-I reviewed the Windows Update system, which automatically checks for, downloads, and installs security updates and software patches. Automated patch management helps reduce vulnerability exposure by ensuring security fixes are applied promptly. By minimizing the time systems remain unpatched, organizations can reduce the risk of exploitation from known vulnerabilities.
+I reviewed macOS automatic software update settings, which automatically check for, download, and install security updates provided by Apple. Automated patch management is a proactive security implementation because it ensures vulnerabilities are addressed as soon as security fixes become available.
+
+By automatically applying updates, systems remain protected against known security threats and vulnerabilities. This reduces the amount of time a device is exposed to security risks and helps maintain a secure computing environment without requiring manual intervention.
 
 Evidence File: patch_management.png
 
